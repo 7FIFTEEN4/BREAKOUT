@@ -1,1 +1,1 @@
-# CS-106A
+# CS-106A Assignments
